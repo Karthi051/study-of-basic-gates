@@ -85,13 +85,13 @@ endmodule
 ![image](https://github.com/Karthi051/study-of-basic-gates/assets/148327224/d86a4c0c-3f26-49b6-99dc-87e121f37603)
 
 
-**RTL realization Output:** 
-**RTL**
+## RTL realization Output:
+## RTL
 ![image](https://github.com/Karthi051/study-of-basic-gates/assets/148327224/4c50519b-34c2-4c59-b9da-97024db74d88)
 
 
 
-**output**
+## output
 ![image](https://github.com/Karthi051/study-of-basic-gates/assets/148327224/c0aa1279-5299-4f44-a230-d01c2446ced1)
 
 
